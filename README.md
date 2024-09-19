@@ -1,7 +1,7 @@
 
 # 👋 Hey There! I'm Luan Felipe Sievers
 
-### 🚀 Full Stack Developer | Next.js Specialist
+### 🚀 Full Stack Developer
 
 With over a decade of experience in IT, I'm passionate about product design and development. Specializing in Vue, TypeScript, and Node since 2013, I've also worked extensively with React. One of my proudest achievements was developing a COVID-19 <sub><sup>([Server](https://github.com/luansievers/COVID-19-API-public)/[Frontend](https://github.com/luansievers/COVID-19-APP-public))</sup></sub> tracking app in 2020 that gained over 10,000 visits in its first month. I've held leadership roles from Team Lead in Brazil to Senior Software Developer in Canada, mentoring junior developers and focusing on delivering custom software solutions.
 
